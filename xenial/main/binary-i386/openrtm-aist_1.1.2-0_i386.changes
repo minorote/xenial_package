@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Thu, 17 Sep 2015 13:50:25 +0900
+Source: openrtm-aist
+Binary: openrtm-aist openrtm-aist-dev openrtm-aist-example openrtm-aist-doc
+Architecture: source i386 all
+Version: 1.1.2-0
+Distribution: precise
+Urgency: low
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Changed-By: Noriaki Ando <n-ando@aist.go.jp>
+Description:
+ openrtm-aist - OpenRTM-aist, RT-Middleware distributed by AIST
+ openrtm-aist-dev - OpenRTM-aist headers for development
+ openrtm-aist-doc - Documentation for openrtm-aist
+ openrtm-aist-example - OpenRTM-aist examples
+Changes:
+ openrtm-aist (1.1.2-0) precise; urgency=low
+ .
+   * 1.1.2-0 (1.1.2-RELEASE). OpenRTM-aist-1.1.2-RELEASE
+Checksums-Sha1:
+ f45e96693d616b493e9b1b59a5a00c13fed4308b 838 openrtm-aist_1.1.2-0.dsc
+ f0203069df97baf6d897ce21a58f2cee1477fe1f 19788872 openrtm-aist_1.1.2-0.tar.gz
+ 7d3aa3f9702fe1fa239c9494ed9b0513658e6b29 355728 openrtm-aist-dev_1.1.2-0_i386.deb
+ 71d60bd7b8e0890c8599e550c3cce7eef031aa26 1378262 openrtm-aist-doc_1.1.2-0_all.deb
+ d6ed7c9cd5da53b05d90a1dca547a852d3dc3e38 446662 openrtm-aist-example_1.1.2-0_i386.deb
+ ef0ec05a931b46429daf48daacf235640c5421bf 1335186 openrtm-aist_1.1.2-0_i386.deb
+Checksums-Sha256:
+ 0b2fff8c12af1462be0a5af80e9f6e7d41ad0631f423a0e7785705bd6c56d325 838 openrtm-aist_1.1.2-0.dsc
+ c3839248923b059020cac19897a95d1253504ab5f83b112c6b8778227333ce91 19788872 openrtm-aist_1.1.2-0.tar.gz
+ 6929b091b13012f700e65ee24da01b95044b31bb58ba6a517b0b8d6e5b00d379 355728 openrtm-aist-dev_1.1.2-0_i386.deb
+ 93e82a8f269f947b6dca5667148deba4e8dea8072cf9e3d9c13041b8595e641d 1378262 openrtm-aist-doc_1.1.2-0_all.deb
+ 62ecde0cce71a38e5c388e1f369fb70ec033171d7ed6c1b44618cd412e052ec7 446662 openrtm-aist-example_1.1.2-0_i386.deb
+ 9eaa39012606f49a0a9f47f89805dad9e91b1a2a0176ab428ad9c84200a74a21 1335186 openrtm-aist_1.1.2-0_i386.deb
+Files:
+ 6e5fee3087cee79bbbf0b7e64d01f2e6 838 science extra openrtm-aist_1.1.2-0.dsc
+ f0ec2b43a7de0991c79eba71a295d6ba 19788872 science extra openrtm-aist_1.1.2-0.tar.gz
+ c31bdfc08cb8a72f8b63120c68aa8d53 355728 science extra openrtm-aist-dev_1.1.2-0_i386.deb
+ daee268e93838883a29dd4474b013c68 1378262 science extra openrtm-aist-doc_1.1.2-0_all.deb
+ fa4a8cc1b03b661d5fc366fe07b86206 446662 science extra openrtm-aist-example_1.1.2-0_i386.deb
+ cdab15c53c2ced6886241f1549df5554 1335186 science extra openrtm-aist_1.1.2-0_i386.deb

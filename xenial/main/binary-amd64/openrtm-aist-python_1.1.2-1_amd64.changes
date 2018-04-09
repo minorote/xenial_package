@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Mon, 20 Nov 2017 14:16:58 +0900
+Source: openrtm-aist-python
+Binary: openrtm-aist-python openrtm-aist-python-example openrtm-aist-python-doc
+Architecture: source all amd64
+Version: 1.1.2-1
+Distribution: experimental
+Urgency: low
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Changed-By: Noriaki Ando <n-ando@aist.go.jp>
+Description:
+ openrtm-aist-python - OpenRTM-aist is a reference implementation of RT-Middleware
+ openrtm-aist-python-doc - Documentation for openrtm-aist-python
+ openrtm-aist-python-example - OpenRTM-aist-Python examples
+Changes:
+ openrtm-aist-python (1.1.2-1) experimental; urgency=low
+ .
+   * 1.1.2-1 (1.1.2-RELEASE). OpenRTM-aist-1.1.2-RELEASE
+Checksums-Sha1:
+ 71c5372a4220b4fb7f11866a8dd37abeac9053f8 783 openrtm-aist-python_1.1.2-1.dsc
+ e41b561f4eba2addca6867e5e7398bc7fdba577c 788490 openrtm-aist-python_1.1.2-1.tar.gz
+ 1852143f78859bdde474c83563424c392aa8ff33 992954 openrtm-aist-python-doc_1.1.2-1_all.deb
+ 8b59ee5703fed9ac4579959e66907592765e4dc8 44766 openrtm-aist-python-example_1.1.2-1_amd64.deb
+ 207b9aee3362cf0262745393417c47d4008b6023 282652 openrtm-aist-python_1.1.2-1_amd64.deb
+Checksums-Sha256:
+ e9fe742110f5b3d6cbd85ab928161da30bf183108a86467dcda409d9dcbb0de1 783 openrtm-aist-python_1.1.2-1.dsc
+ 56a64f6685514f1973ca269305618bd3000d7d14c5410884fc4fa75251af6653 788490 openrtm-aist-python_1.1.2-1.tar.gz
+ 560cbfba18398a596c77d8eb0422fc28a1e2d5ebf8267e0d4aa2162d3831d1db 992954 openrtm-aist-python-doc_1.1.2-1_all.deb
+ c3ad519cab0530069b7d68f5b473d4ca80714f4c85f5e664164e9204735a5318 44766 openrtm-aist-python-example_1.1.2-1_amd64.deb
+ df22a87744bcb6d8fbb27e885af93386365020a31e6b7ad792b1206c662efafc 282652 openrtm-aist-python_1.1.2-1_amd64.deb
+Files:
+ e6530df8859ff53213da44ff1b9268b2 783 main extra openrtm-aist-python_1.1.2-1.dsc
+ ff833edc2c8a3be4fe5fbac002861dd1 788490 main extra openrtm-aist-python_1.1.2-1.tar.gz
+ 8267cdf0dd41ee9d6507a8eb7fff9bf9 992954 main extra openrtm-aist-python-doc_1.1.2-1_all.deb
+ 96b87698ab761898ef974a7356497d9d 44766 main extra openrtm-aist-python-example_1.1.2-1_amd64.deb
+ 5bc322fa387970c0b5bf26da128c346b 282652 main extra openrtm-aist-python_1.1.2-1_amd64.deb

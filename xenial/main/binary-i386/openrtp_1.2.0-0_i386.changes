@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 12 Dec 2016 18:36:29 +0900
+Source: openrtp
+Binary: openrtp
+Architecture: source i386
+Version: 1.2.0-0
+Distribution: experimental
+Urgency: low
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Changed-By: Noriaki Ando <n-ando@aist.go.jp>
+Description:
+ openrtp    - OpenRTP, Open RT Platform distributed by AIST
+Changes:
+ openrtp (1.2.0-0) experimental; urgency=low
+ .
+   * 1.2.0-0 (1.2.0-RELEASE). OpenRTP-1.2.0-RELEASE
+Checksums-Sha1:
+ e29b896dd49ac4fa1f62ec29b3f6d4bfbad18f17 539 openrtp_1.2.0-0.dsc
+ 3396147122e10dc4c0c67e0e55de809491c0abe2 266420917 openrtp_1.2.0-0.tar.gz
+ 7c403b091fc7dcaab5c5c9a233d82cb48ed76035 255305146 openrtp_1.2.0-0_i386.deb
+Checksums-Sha256:
+ 49b4a5c7385862b27a5257c7aa6af317b8c6bab25ae82fdebe747e0724e122c9 539 openrtp_1.2.0-0.dsc
+ d4fda6fa22bec790f07514732a317a35ad8bfb14fa624bcc5e38295f374e998e 266420917 openrtp_1.2.0-0.tar.gz
+ fc83fdfdb82ad18e064f106bc186de9dea739c17aa10ff918199cad0fa84b1e6 255305146 openrtp_1.2.0-0_i386.deb
+Files:
+ 078e59389bcd606e83a3f12e9ecf2779 539 science extra openrtp_1.2.0-0.dsc
+ 80c98ca3f1bcfc8b2a54ba493f0e426c 266420917 science extra openrtp_1.2.0-0.tar.gz
+ acd2e9d8f5b48c3bd8a0111d6355414b 255305146 science extra openrtp_1.2.0-0_i386.deb

@@ -1,0 +1,360 @@
+Package: openrtm-aist
+Version: 1.1.1-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 8490
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libomniorb4-1 (>= 4.1.6), libomnithread3c2 (>= 4.0.6), libstdc++6 (>= 5.2), libuuid1 (>= 2.16), omniorb-nameserver
+Filename: dists/xenial/main/binary-i386/openrtm-aist_1.1.1-0_i386.deb
+Size: 1236082
+MD5sum: a6f7524522e47cd3832b474d02a53bbb
+SHA1: 4acc8affa5e4c503c589380c85279345d9acbaf8
+SHA256: 6835aab43ac58e74d48851d891642d6854d9f142eca5531bcff25d93c7c542e0
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist, RT-Middleware distributed by AIST
+ OpenRTM-aist is a reference implementation of RTC (Robotic Technology
+ Component) specification which is OMG standard. OpenRTM-aist includes
+ RT-Middleware runtime environment and RTC framework. The OMG standard
+ defines a component model and certain important infrastructure
+ services applicable to the domain of robotics software development.
+ OpenRTM-aist is being developed and distributed by Intelligent
+ Systems Research Institute, National Institute of Advanced Industrial
+ Science and Technology (AIST), Japan.
+ Please see http://www.openrtm.org/ for more detail.
+
+Package: openrtm-aist
+Version: 1.1.2-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 9182
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libomniorb4-1 (>= 4.1.6), libomnithread3c2 (>= 4.0.6), libstdc++6 (>= 5.2), libuuid1 (>= 2.16), omniorb-nameserver
+Filename: dists/xenial/main/binary-i386/openrtm-aist_1.1.2-0_i386.deb
+Size: 1335186
+MD5sum: cdab15c53c2ced6886241f1549df5554
+SHA1: ef0ec05a931b46429daf48daacf235640c5421bf
+SHA256: 9eaa39012606f49a0a9f47f89805dad9e91b1a2a0176ab428ad9c84200a74a21
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist, RT-Middleware distributed by AIST
+ OpenRTM-aist is a reference implementation of RTC (Robotic Technology
+ Component) specification which is OMG standard. OpenRTM-aist includes
+ RT-Middleware runtime environment and RTC framework. The OMG standard
+ defines a component model and certain important infrastructure
+ services applicable to the domain of robotics software development.
+ OpenRTM-aist is being developed and distributed by Intelligent
+ Systems Research Institute, National Institute of Advanced Industrial
+ Science and Technology (AIST), Japan.
+ Please see http://www.openrtm.org/ for more detail.
+
+Package: openrtm-aist-dev
+Source: openrtm-aist
+Version: 1.1.1-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 3373
+Depends: openrtm-aist
+Filename: dists/xenial/main/binary-i386/openrtm-aist-dev_1.1.1-0_i386.deb
+Size: 336164
+MD5sum: a6b1bd9e0bac123e86f6075813c61150
+SHA1: 012bdf27fd5655d21a5a1cd73d6f3e3312176985
+SHA256: af4239c668a3fa8058129456e29175a59258be593ba81916715607b33e90b089
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist headers for development
+ The header files and libraries needed for developing programs using
+ OpenRTM-aist.
+
+Package: openrtm-aist-dev
+Source: openrtm-aist
+Version: 1.1.2-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 3653
+Depends: openrtm-aist
+Filename: dists/xenial/main/binary-i386/openrtm-aist-dev_1.1.2-0_i386.deb
+Size: 355728
+MD5sum: c31bdfc08cb8a72f8b63120c68aa8d53
+SHA1: 7d3aa3f9702fe1fa239c9494ed9b0513658e6b29
+SHA256: 6929b091b13012f700e65ee24da01b95044b31bb58ba6a517b0b8d6e5b00d379
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist headers for development
+ The header files and libraries needed for developing programs using
+ OpenRTM-aist.
+
+Package: openrtm-aist-doc
+Source: openrtm-aist
+Version: 1.1.1-0
+Architecture: all
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 23678
+Filename: dists/xenial/main/binary-i386/openrtm-aist-doc_1.1.1-0_all.deb
+Size: 1378026
+MD5sum: 8592b3a66a2285fa362cebf7fe37b1c5
+SHA1: d970a6c89b0ee76ecd0476a2a30f559d4d899673
+SHA256: 62ee892a32ee6f69585e4070114f4ed86685ae8d8dc0ac31154fc3eec5d978ce
+Section: science
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: Documentation for openrtm-aist
+ Developer documentation.
+
+Package: openrtm-aist-doc
+Source: openrtm-aist
+Version: 1.1.2-0
+Architecture: all
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 23680
+Filename: dists/xenial/main/binary-i386/openrtm-aist-doc_1.1.2-0_all.deb
+Size: 1378262
+MD5sum: daee268e93838883a29dd4474b013c68
+SHA1: 71d60bd7b8e0890c8599e550c3cce7eef031aa26
+SHA256: 93e82a8f269f947b6dca5667148deba4e8dea8072cf9e3d9c13041b8595e641d
+Section: science
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: Documentation for openrtm-aist
+ Developer documentation.
+
+Package: openrtm-aist-example
+Source: openrtm-aist
+Version: 1.1.1-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 4532
+Depends: openrtm-aist
+Filename: dists/xenial/main/binary-i386/openrtm-aist-example_1.1.1-0_i386.deb
+Size: 440390
+MD5sum: 5230329dc1763f4c8e84961e33a49641
+SHA1: a5439efee547ef1ae33f0930d2a1be905134e9f1
+SHA256: 0cd4168127384f9949a84068a9ac3754a3fb096f95832109777eb9dff4bf7689
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist examples
+ Example components and sources
+
+Package: openrtm-aist-example
+Source: openrtm-aist
+Version: 1.1.2-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 4599
+Depends: openrtm-aist
+Filename: dists/xenial/main/binary-i386/openrtm-aist-example_1.1.2-0_i386.deb
+Size: 446662
+MD5sum: fa4a8cc1b03b661d5fc366fe07b86206
+SHA1: d6ed7c9cd5da53b05d90a1dca547a852d3dc3e38
+SHA256: 62ecde0cce71a38e5c388e1f369fb70ec033171d7ed6c1b44618cd412e052ec7
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist examples
+ Example components and sources
+
+Package: openrtm-aist-python
+Version: 1.1.1-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 1997
+Depends: omniorb-nameserver
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python_1.1.1-0_i386.deb
+Size: 263190
+MD5sum: 255ad3a697b5cd25d62ecec81d1fc23d
+SHA1: ee5966153f9680db5593ae99608211f53eb2c814
+SHA256: 3fe3fbe2c0f91d55a9e4ddafd718220877977ccae0afb615a82fa825c9747fa1
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist is a reference implementation of RT-Middleware
+ and RT-Component framework. RT-Component (RTC) is a component model
+ standardized in OMG (Object Management Group) as Robotic Technology
+ Component Specification 1.0 (formal/08-04-04,
+ http://www.omg.org/spec/RTC/1.0).  OpenRTM-aist is being developed and
+ distributed by Intelligent Systems Research Institute, National
+ Institute of Advanced Industrial Science and Technology (AIST), Japan.
+ Please see http://openrtm.org/ for more details.
+
+Package: openrtm-aist-python
+Version: 1.1.2-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 2167
+Depends: omniorb-nameserver
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python_1.1.2-0_i386.deb
+Size: 282832
+MD5sum: 0b8d73fbc3328bbedbe185bdeab67567
+SHA1: a445269e3f2ce9ef50fc94bc7d7b3c704e4b3dad
+SHA256: 205ec90f82f59c7ec8f81ae72ace0fa7634f08b6ad50f6e21abf9a964332f2a1
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist is a reference implementation of RT-Middleware
+ and RT-Component framework. RT-Component (RTC) is a component model
+ standardized in OMG (Object Management Group) as Robotic Technology
+ Component Specification 1.0 (formal/08-04-04,
+ http://www.omg.org/spec/RTC/1.0).  OpenRTM-aist is being developed and
+ distributed by Intelligent Systems Research Institute, National
+ Institute of Advanced Industrial Science and Technology (AIST), Japan.
+ Please see http://openrtm.org/ for more details.
+
+Package: openrtm-aist-python
+Version: 1.1.2-1
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 2169
+Depends: omniorb-nameserver
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python_1.1.2-1_i386.deb
+Size: 283190
+MD5sum: 7901c43e8f00607af1c03cce2378062b
+SHA1: f30d5f765c12ba0efdeb22bdcbc4bdeaacb4799c
+SHA256: 385e554a3aac87f8fa09794b0079530786c77c0a7d9457002b3cbdfd9386ebea
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist is a reference implementation of RT-Middleware
+ and RT-Component framework. RT-Component (RTC) is a component model
+ standardized in OMG (Object Management Group) as Robotic Technology
+ Component Specification 1.0 (formal/08-04-04,
+ http://www.omg.org/spec/RTC/1.0).  OpenRTM-aist is being developed and
+ distributed by Intelligent Systems Research Institute, National
+ Institute of Advanced Industrial Science and Technology (AIST), Japan.
+ Please see http://openrtm.org/ for more details.
+
+Package: openrtm-aist-python-doc
+Source: openrtm-aist-python
+Version: 1.1.1-0
+Architecture: all
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 11452
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-doc_1.1.1-0_all.deb
+Size: 526766
+MD5sum: c2db140778ce7cd67d789a75f88e7d10
+SHA1: a99c6edbc86184cd8a4d47c21fc799a42d331a32
+SHA256: faf033efa7306869db35e466c8de382ab3b429a6be6f0691734b9e7881dd88ee
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: Documentation for openrtm-aist-python
+ Developer documentation.
+
+Package: openrtm-aist-python-doc
+Source: openrtm-aist-python
+Version: 1.1.2-0
+Architecture: all
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 12665
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-doc_1.1.2-0_all.deb
+Size: 577194
+MD5sum: c258b7736be396e38b95487c2673c507
+SHA1: cc9a64b596544c9b3406b4fb8d9df0edccd74999
+SHA256: 5891452662f7ea970dc1587778f007b33b0c422bbc66def961e625eb020e6458
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: Documentation for openrtm-aist-python
+ Developer documentation.
+
+Package: openrtm-aist-python-doc
+Source: openrtm-aist-python
+Version: 1.1.2-1
+Architecture: all
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 18488
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-doc_1.1.2-1_all.deb
+Size: 992704
+MD5sum: 0cb7179e44e6b68611b4a6927b8fd736
+SHA1: 2f2707c6a9d4f12868b97b650703b903db55feb1
+SHA256: 136104ebe74ae545e7fbe977bf1939a874ccd1e13ab20f3c9144a48d43a3deb2
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: Documentation for openrtm-aist-python
+ Developer documentation.
+
+Package: openrtm-aist-python-example
+Source: openrtm-aist-python
+Version: 1.1.1-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 512
+Depends: openrtm-aist-python
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-example_1.1.1-0_i386.deb
+Size: 45340
+MD5sum: 855da0648fe0509637c1db8745fdb5a9
+SHA1: 9372b1235b15490093c620aa0a90719108ed1204
+SHA256: 49595cc31de10a6b664516c8733fa4caf5f87d140a92ccf7b1b59b94cbc02d09
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist-Python examples
+ Example components and sources
+
+Package: openrtm-aist-python-example
+Source: openrtm-aist-python
+Version: 1.1.2-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 490
+Depends: openrtm-aist-python
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-example_1.1.2-0_i386.deb
+Size: 44670
+MD5sum: 9da91f9ee99efb09a6f8a5614864c50e
+SHA1: 72e034fee7c9aff7a8136c73cf46e6db610f1f6a
+SHA256: d573edea83f4506ac4d2ea919e1b6c823d9e55f00edf8ccf505bd79738ccbcc8
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist-Python examples
+ Example components and sources
+
+Package: openrtm-aist-python-example
+Source: openrtm-aist-python
+Version: 1.1.2-1
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 490
+Depends: openrtm-aist-python
+Filename: dists/xenial/main/binary-i386/openrtm-aist-python-example_1.1.2-1_i386.deb
+Size: 44714
+MD5sum: 2a6f9cc520d5597a47d11e6b4a1272e4
+SHA1: 0f5cd1a4c851b1dbdbdbb122e5b60a1059e3a284
+SHA256: f866b8914060995a107f422682f112bca8e03ca8037e5b106616f698906b776d
+Section: main
+Priority: extra
+Homepage: http://www.openrtm.org
+Description: OpenRTM-aist-Python examples
+ Example components and sources
+
+Package: openrtp
+Version: 1.2.0-0
+Architecture: i386
+Maintainer: Noriaki Ando <n-ando@aist.go.jp>
+Installed-Size: 288324
+Depends: libc6 (>= 2.3.6-6~), default-jre | openjdk-7-jre | openjdk-8-jre, openrtm-aist-dev
+Filename: dists/xenial/main/binary-i386/openrtp_1.2.0-0_i386.deb
+Size: 255305146
+MD5sum: acd2e9d8f5b48c3bd8a0111d6355414b
+SHA1: 7c403b091fc7dcaab5c5c9a233d82cb48ed76035
+SHA256: fc83fdfdb82ad18e064f106bc186de9dea739c17aa10ff918199cad0fa84b1e6
+Section: science
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.openrtm.org
+Description: OpenRTP, Open RT Platform distributed by AIST
+ OpenRTP is tool package for OpenRTM-aist and its interoperable
+ RT-Middleware implementations. OpenRTP is being developed and
+ distributed by Intelligent Systems Research Institute, National
+ Institute of Advanced Industrial Science and Technology (AIST), Japan.
+ Please see http://www.openrtm.org/ for more detail.
+
